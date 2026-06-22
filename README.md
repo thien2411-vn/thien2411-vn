@@ -16,7 +16,6 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Embedded Systems, IoT, and Edge AI projects**.
-- 🌱 I’m currently diving deeper into **RTOS, Bare-metal programming, and TinyML**.
 - 👯 I’m looking to collaborate on **innovative IoT and Computer Vision applications**.
 - ⚡ Fun fact: *I love making hardware come alive with code!*
 
