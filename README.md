@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/phamquoc.thien.758">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="phamquocthien66@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
