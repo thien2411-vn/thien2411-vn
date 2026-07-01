@@ -24,10 +24,11 @@
 
 🎓 Final-year student in **Electronics & Communication Engineering Technology** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
 
-I'm passionate about building real-world embedded systems — from writing bare-metal firmware and custom bootloaders for **STM32**, to developing IoT applications with **ESP32/ESP8266** using ESP-IDF and Arduino frameworks, and integrating cloud services with **Raspberry Pi** gateways.
+I'm passionate about building real-world embedded systems — from writing bare-metal firmware and custom bootloaders for **STM32**, to developing IoT applications with **ESP32/ESP8266** using ESP-IDF and Arduino frameworks, and integrating cloud services with **Raspberry Pi** gateways. I'm also exploring **Edge AI** to bring intelligence closer to embedded devices.
 
 - 🔭 Currently working on **Firmware OTA Update Systems and IoT Smart Solutions**.
 - 🛠️ Experienced in **Bare-metal & HAL Firmware Development, Bootloader Design, ESP32/ESP-IDF, and IoT Systems**.
+- 🤖 Exploring **Edge AI & Computer Vision** on embedded platforms.
 - 🌱 Learning more about **FreeRTOS, Linux Embedded, and Wireless Protocols (BLE, MQTT, Wi-Fi)**.
 - 📫 Reach me at **phamquocthien66@gmail.com**
 
@@ -62,6 +63,10 @@ I'm passionate about building real-world embedded systems — from writing bare-
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logo=freertos&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+
+**Edge AI:**<br/>
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Tools & Platforms:**<br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
