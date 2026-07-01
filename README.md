@@ -34,16 +34,6 @@ I'm passionate about building real-world embedded systems — from writing bare-
 
 ---
 
-### Education
-
-| | |
-|---|---|
-| **University** | Ho Chi Minh City University of Technology and Education (HCMUTE) |
-| **Major** | Electronics & Communication Engineering Technology |
-| **Expected Graduation** | 2026 |
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 **Languages:**<br/>
