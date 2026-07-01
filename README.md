@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="www.linkedin.com/in/phạm-quốc-thiên-868715345">
+  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-qu%E1%BB%91c-thi%C3%AAn-868715345/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/phamquoc.thien.758">
