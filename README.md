@@ -29,7 +29,7 @@ I'm passionate about building real-world embedded systems — from writing bare-
 - 🔭 Currently working on **Firmware OTA Update Systems and IoT Smart Solutions**.
 - 🛠️ Experienced in **Bare-metal, Bootloader Design, ESP32/ESP-IDF, and IoT Systems**.
 - 🤖 Exploring **Edge AI & Computer Vision** on embedded platforms.
-- 🌱 Learning more about **FreeRTOS, Linux Embedded, and Protocols (BLE, Wi-Fi, UART, SPI, I2C)**.
+- 🌱 Learning more about **Edge AI & Computer Vision, Linux Embedded, and Wireless Protocols (BLE, MQTT, Wi-Fi).**.
 - 📫 Reach me at **phamquocthien66@gmail.com**
 
 ---
