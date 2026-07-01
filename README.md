@@ -26,21 +26,21 @@
 
 I'm passionate about building real-world embedded systems — from writing bare-metal firmware and custom bootloaders for **STM32**, to developing IoT applications with **ESP32/ESP8266** using ESP-IDF and Arduino frameworks, and integrating cloud services with **Raspberry Pi** gateways. I'm also exploring **Edge AI** to bring intelligence closer to embedded devices.
 
-- 🔭 Currently working on **Firmware OTA Update Systems and IoT Smart Solutions**.
-- 🛠️ Experienced in **Bare-metal, Bootloader Design, ESP32/ESP-IDF, and IoT Systems**.
-- 🤖 Exploring **Edge AI & Computer Vision** on embedded platforms.
-- 🌱 Learning more about **Edge AI & Computer Vision, Linux Embedded, and Wireless Protocols (BLE, MQTT, Wi-Fi).**.
-- 📫 Reach me at **phamquocthien66@gmail.com**
+- Currently working on **Firmware OTA Update Systems and IoT Smart Solutions**.
+- Experienced in **Bare-metal, Bootloader Design, ESP32/ESP-IDF, and IoT Systems**.
+- Exploring **Edge AI & Computer Vision** on embedded platforms.
+- Learning more about **Edge AI & Computer Vision, Linux Embedded, and Wireless Protocols (BLE, MQTT, Wi-Fi).**.
+- Reach me at **phamquocthien66@gmail.com**
 
 ---
 
-### 🎓 Education
+### Education
 
 | | |
 |---|---|
-| 🏫 **University** | Ho Chi Minh City University of Technology and Education (HCMUTE) |
-| 📚 **Major** | Electronics & Communication Engineering Technology |
-| 📅 **Expected Graduation** | 2026 |
+| **University** | Ho Chi Minh City University of Technology and Education (HCMUTE) |
+| **Major** | Electronics & Communication Engineering Technology |
+| **Expected Graduation** | 2026 |
 
 ---
 
