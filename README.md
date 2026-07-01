@@ -27,9 +27,9 @@
 I'm passionate about building real-world embedded systems — from writing bare-metal firmware and custom bootloaders for **STM32**, to developing IoT applications with **ESP32/ESP8266** using ESP-IDF and Arduino frameworks, and integrating cloud services with **Raspberry Pi** gateways. I'm also exploring **Edge AI** to bring intelligence closer to embedded devices.
 
 - 🔭 Currently working on **Firmware OTA Update Systems and IoT Smart Solutions**.
-- 🛠️ Experienced in **Bare-metal & HAL Firmware Development, Bootloader Design, ESP32/ESP-IDF, and IoT Systems**.
+- 🛠️ Experienced in **Bare-metal, Bootloader Design, ESP32/ESP-IDF, and IoT Systems**.
 - 🤖 Exploring **Edge AI & Computer Vision** on embedded platforms.
-- 🌱 Learning more about **FreeRTOS, Linux Embedded, and Wireless Protocols (BLE, MQTT, Wi-Fi)**.
+- 🌱 Learning more about **FreeRTOS, Linux Embedded, and Protocols (BLE, Wi-Fi, UART, SPI, I2C)**.
 - 📫 Reach me at **phamquocthien66@gmail.com**
 
 ---
