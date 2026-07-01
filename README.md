@@ -60,8 +60,9 @@ I'm passionate about building real-world embedded systems — from writing bare-
 
 **Frameworks & Protocols:**<br/>
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logo=freertos&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge&logoColor=white)
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
 **Edge AI:**<br/>
