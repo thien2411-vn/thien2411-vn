@@ -49,7 +49,6 @@ I'm passionate about building real-world embedded systems — from writing bare-
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 **Frameworks & Protocols:**<br/>
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge&logoColor=white)
